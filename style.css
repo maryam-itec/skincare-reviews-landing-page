@@ -496,6 +496,14 @@ body {
   margin-top: 5px;
 }
 
+.device-card-gap {
+  padding: 30px 40px 42px 40px;
+}
+
+.device-card-space {
+  padding: 30px 40px 38px 40px;
+}
+
 .dev-card {
   margin-bottom: 6px;
 }
@@ -570,8 +578,6 @@ body {
 }
 
 .device-img {
-  width: 100%;
-  height: 100%;
   object-fit: contain;
 }
 
@@ -662,7 +668,7 @@ body {
 }
 
 .dev-block-box {
-  margin-top: 41px;
+  margin-top: 42px;
   margin-left: 10px;
 }
 
