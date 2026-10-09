@@ -1,4 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Open+Sans:wght@400;700;800;900&display=swap');
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./fonts/OpenSans-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('./fonts/OpenSans-Italic.ttf') format('truetype');
+    font-style: italic;
+}
 
 * {
   margin: 0;
@@ -917,7 +927,7 @@ body {
 
 .summary-section {
   width: 100%;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   background-color: #F4F4F4;
   padding: 51px 260px 50px 260px;
   box-sizing: border-box;
