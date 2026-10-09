@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'Open Sans';
-    src: url('./fonts/OpenSans-Regular.ttf') format('truetype');
-    font-style: normal;
+  font-family: 'Open Sans';
+  src: url('./fonts/OpenSans-Regular.ttf') format('truetype');
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url('./fonts/OpenSans-Italic.ttf') format('truetype');
-    font-style: italic;
+  font-family: 'Open Sans';
+  src: url('./fonts/OpenSans-Italic.ttf') format('truetype');
+  font-style: italic;
 }
 
 * {
@@ -229,6 +229,7 @@ body {
   width: 360px;
   height: 161.33px;
   object-fit: cover;
+  display: block;
 }
 
 .article-text-block {
